@@ -4,7 +4,9 @@
 
 .nav-items {
   list-style: none;
-  gap: 5rem;
+  gap: 0rem 5rem;
+  font-family: "Quicksand", sans-serif;
+  font-size: 21px;
 }
 
 .title {
