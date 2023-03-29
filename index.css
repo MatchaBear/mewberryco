@@ -3,6 +3,7 @@
 }
 
 .nav-items {
+  list-style: none;
   gap: 5rem;
 }
 
