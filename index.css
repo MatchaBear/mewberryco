@@ -1,6 +1,9 @@
 .nav {
+  margin: 0;
+  padding: 0.3rem 0rem;
   display: flex;
   gap: 10%;
+  background-color: lavender;
 }
 
 .nav-items {
