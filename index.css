@@ -1,5 +1,12 @@
-* {
+body {
   margin: 0;
+}
+
+nav,
+section,
+p,
+h1,
+h2 {
   padding: 0.5rem 0.5rem;
 }
 
