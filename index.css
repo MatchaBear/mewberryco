@@ -1,6 +1,11 @@
+* {
+  margin: 0;
+  padding: 0.5rem 0.5rem;
+}
+
 .nav {
   margin: 0;
-  padding: 0.3rem 0rem;
+  padding: 0.5rem 0.5rem;
   display: flex;
   gap: 10%;
   background-color: lavender;
