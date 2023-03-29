@@ -1,16 +1,8 @@
 .eg1-h1 {
-  font-family: "Laila", sans-serif;
-  font-size: xx-large;
+  font-family: "Quicksand", sans-serif;
+  font-size: 48px;
 }
 .eg1-h2 {
   font-family: "Nunito", sans-serif;
-  font-size: xx-large;
-}
-.eg2-h1 {
-  font-family: "Quicksand", sans-serif;
-  font-size: xx-large;
-}
-.eg2-h2 {
-  font-family: "Poppins", sans-serif;
-  font-size: xx-large;
+  font-size: 21px;
 }
