@@ -10,8 +10,9 @@ h2 {
 
 .nav {
   margin: 0;
-  padding: 0.5rem 0.5rem;
+  padding: 1.5rem 0.5rem;
   display: flex;
+  justify-content: center;
   gap: 10%;
   background-color: lavender;
 }
