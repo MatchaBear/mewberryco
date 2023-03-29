@@ -1,3 +1,11 @@
+.nav {
+  display: flex;
+}
+
+.nav-items {
+  gap: 5rem;
+}
+
 .title {
   font-family: "Quicksand", sans-serif;
   font-size: 48px;
