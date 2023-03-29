@@ -1,8 +1,9 @@
-.eg1-h1 {
+.title {
   font-family: "Quicksand", sans-serif;
   font-size: 48px;
 }
-.eg1-h2 {
+
+.content {
   font-family: "Nunito", sans-serif;
   font-size: 21px;
 }
